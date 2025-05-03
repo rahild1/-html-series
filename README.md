@@ -1,1 +1,2 @@
-Created my first html blog page and form page #day 3 html
+Created my first html blog page and form page #html css series day 3
+
